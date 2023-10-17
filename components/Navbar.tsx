@@ -11,8 +11,8 @@ export default function Navbar() {
           <a href="#">SPECIAL DISCOUNTS </a>
         </div>
         <div>
-          <input type="text" placeholder="Search..." />
-          <button>Search</button>
+        <input type="text" placeholder="Search..." />
+        <button>Search</button>  
         </div>
       </div>
     );
